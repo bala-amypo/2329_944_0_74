@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.example.demo.entity.Studententity;
-import com.example.demo.service.Studentservice;
+// import com.example.demo.service.Studentservice;
 
 @RestController
 public class Studentcontroller{
